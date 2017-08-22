@@ -1,0 +1,19 @@
+{
+  "name": "contactmanager",
+  "version": "1.2.5",
+  "description": "this app enables the users to add,edi and remove contacts",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "mvargas"
+  },
+  "keywords": [
+    "any",
+    "keywords"
+  ],
+  "author": "Michelle Vargas",
+  "license": "ISC"
+}
